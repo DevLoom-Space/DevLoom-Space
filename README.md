@@ -75,12 +75,8 @@ I design and build **secure, scalable backend systems** with clean architecture 
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/DevLoom/DevLoom/output/github-contribution-grid-snake-dark.svg" />
-
+  <img src="https://raw.githubusercontent.com/DevLoom-Space/DevLoom-Space/output/github-contribution-grid-snake-dark.svg" />
 </div>
-
----
 
 ## 👀 Profile Views
 
