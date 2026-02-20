@@ -1,4 +1,12 @@
-# Erick Kariuki 👋
+# 👋 Hi, I'm Erick Kariuki
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Backend+Engineer;Django+%26+REST+APIs;System+Design+Focused;Building+Scalable+Systems" />
+
+</div>
+
+---
 
 ### 🚀 Backend Engineer | Django & REST APIs | System Design Focus
 
@@ -8,13 +16,15 @@ I design and build **secure, scalable backend systems** with clean architecture 
 
 ## 🛠 Skills
 
+<div align="center">
+
 [![My Skills](https://skillicons.dev/icons?i=python,django,postgres,mysql,sqlite,react,html,css,bootstrap,tailwind,docker,git,aws,azure)](https://skillicons.dev)
+
+</div>
 
 ---
 
 ## 🧠 What I Build
-
-My work focuses on:
 
 - 🔐 Authentication & authorization systems  
 - 🔄 RESTful API development  
@@ -31,18 +41,7 @@ My work focuses on:
 
 ---
 
-## 🏗 Core Stack
-
-**Backend:** Django, Django REST Framework, Python  
-**Frontend:** React, HTML, CSS, Bootstrap, Tailwind  
-**Databases:** PostgreSQL, MySQL, SQLite  
-**DevOps & Tools:** Docker, Git, AWS (learning), Azure (learning)
-
----
-
 ## 📌 Engineering Philosophy
-
-I believe great backend systems should be:
 
 - ✅ Secure  
 - ✅ Structured  
@@ -73,6 +72,20 @@ I believe great backend systems should be:
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DevLoom/DevLoom/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
 ## 👀 Profile Views
 
+<div align="center">
+
 ![](https://komarev.com/ghpvc/?username=DevLoom&style=flat-square&color=blue)
+
+</div>
