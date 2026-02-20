@@ -52,14 +52,27 @@ I believe great backend systems should be:
 > Clean logic behind the scenes creates seamless user experiences.
 
 ---
+
 ## 📊 GitHub Stats
 
-![Erick's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DevLoom&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DevLoom&layout=compact&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DevLoom&show_icons=true&theme=tokyonight&hide_border=true" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=DevLoom&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=DevLoom&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=DevLoom&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
 
 ## 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=DevLoom-Space&style=flat-square&color=blue)
+![](https://komarev.com/ghpvc/?username=DevLoom&style=flat-square&color=blue)
